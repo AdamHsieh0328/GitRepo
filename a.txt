@@ -4,3 +4,4 @@ B1
 a1
 int C
 int D
+int A
